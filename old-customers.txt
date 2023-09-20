@@ -1,0 +1,20 @@
+Customer ID: 8375
+Name: Sahasra
+Age: 22
+Mobile Number: 47658934
+Address: Bombay
+Gender: Female
+
+Customer ID: 8374
+Name: Kalpana
+Age: 40
+Mobile Number: 82739378
+Address: Hyderabad
+Gender: Female
+
+Customer ID: 7468
+Name: Rohit
+Age: 27
+Mobile Number: 92846578
+Address: Mumbai
+Gender: Male
